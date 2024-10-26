@@ -124,3 +124,4 @@ fn test11(){
     // You can't use r1 and r2 at the same time
     println!("{}, {}", r1, r2);
 }
+
