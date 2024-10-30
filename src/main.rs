@@ -23,6 +23,14 @@ mod chapter105;
 mod chapter111;
 mod chapter112;
 mod chapter113;
+mod chapter121;
+mod chapter122;
+mod chapter123;
+mod chapter131;
+mod chapter132;
+mod chapter161;
+mod chapter162;
+mod chapter163;
 
 fn main() {
     println!("Hello, world!");
